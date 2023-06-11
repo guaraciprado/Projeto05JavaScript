@@ -1,2 +1,2 @@
 # Projeto05JavaScript
-Projeto desenvolvido em JavaScript para Faculdade Flamingo.
+Projeto estudantil 05 Faculdade Flamingo: Desenvolvido um site em JavaScript acesse link em "About".
